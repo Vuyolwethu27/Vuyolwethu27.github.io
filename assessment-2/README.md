@@ -19,5 +19,9 @@ management experience and learning.
 ## 3. Product Backlog
 - [View Product Backlog](product-backlog.md)
 - [View Product Backlog Reflection](product-backlog-reflection.md)
-6. Sprint Backlog
+  
+## 4. Sprint Backlog
+- [View Sprint Backlog](sprint-backlog.md)
+- [View Sprint Backlog Reflection](sprint-backlog-reflection.md)
+
 7. Agile Logbook
