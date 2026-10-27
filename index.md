@@ -29,5 +29,3 @@ Worked on the driver-side functionality of a shuttle tracking system, including 
 | GitHub Pages evidence (20%) | [Publication evidence](evidence.md#github-pages-publication) |
 | Pages STAR reflection (10%) | [Read reflection](reflections.md#github-pages-star-reflection) |
 
-
-> **Before submitting:** Replace all placeholders, upload real evidence, personalise reflections to match your experience, and verify the published links.
