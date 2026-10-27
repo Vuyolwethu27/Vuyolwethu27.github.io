@@ -16,12 +16,20 @@ title: Portfolio Evidence
 
 **Why selected:** Shows that I can communicate professional information using developer-friendly formatting.
 
-## Mock interview video
-**Video:** [WATCH MOCK INTERVIEW — REPLACE WITH REAL VIDEO LINK](https://example.com/replace-with-your-video-link)
 
-**Evidence required:** Record or upload your actual mock interview and replace the link. Use a shareable link with appropriate viewing permissions; do not submit a fabricated video.
+## Mock Interview Video
 
-**Why selected:** A recorded interview provides observable evidence of my verbal communication, preparation and professional presentation.
+As part of my CPUT Work Readiness Training, I completed a mock interview to practise my professional communication and interview skills.
+
+### Watch My Mock Interview
+
+### Skills Practised
+- Professional communication
+- Interview preparation
+- Answering interview questions
+- Confidence and presentation skills
+- Active listening
+  
 
 ## GitHub Pages publication
 **Live site:** `https://YOUR-USERNAME.github.io/` (replace after publishing)
