@@ -1,7 +1,4 @@
----
-layout: default
-title: Work Readiness E-Portfolio
----
+
 # Work Readiness E-Portfolio
 
 **Vuyolwethu Piyo** | Diploma in ICT: Applications Development | Cape Peninsula University of Technology
@@ -16,10 +13,10 @@ Welcome to my digital portfolio. This portfolio brings together evidence of my w
 ## About me
 I am an Applications Development student interested in developing useful digital solutions. My academic projects have strengthened my understanding of requirements, teamwork and software development. I aim to continue improving my technical and professional communication skills.
 
-## Selected project: QR Code Attendance System
-This student group project explores how QR codes can support attendance recording. My contributions have included clarifying requirements and translating business needs into user stories. The project demonstrates collaboration, problem solving and user-focused thinking.
+## Selected project: ### Shuttle Tracking System
+Worked on the driver-side functionality of a shuttle tracking system, including driver login, route status updates, traffic and delay reporting, and communication with administrators.
 
-**Evidence to add:** [Project artefact or presentation](assets/ADD_PROJECT_EVIDENCE_HERE) — replace this placeholder with a real file or link and explain your contribution.
+
 
 ## Portfolio evidence at a glance
 | Rubric item | Evidence |
@@ -32,8 +29,5 @@ This student group project explores how QR codes can support attendance recordin
 | GitHub Pages evidence (20%) | [Publication evidence](evidence.md#github-pages-publication) |
 | Pages STAR reflection (10%) | [Read reflection](reflections.md#github-pages-star-reflection) |
 
-## Contact
-GitHub: **[ADD YOUR GITHUB PROFILE LINK]**  
-Email: **[ADD PROFESSIONAL EMAIL ADDRESS]**
 
 > **Before submitting:** Replace all placeholders, upload real evidence, personalise reflections to match your experience, and verify the published links.
