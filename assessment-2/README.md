@@ -24,4 +24,9 @@ management experience and learning.
 - [View Sprint Backlog](sprint-backlog.md)
 - [View Sprint Backlog Reflection](sprint-backlog-reflection.md)
 
-7. Agile Logbook
+
+## 5. Agile Logbook
+
+- [View Agile Logbook](agile-logbook.md)
+- [View Agile Logbook Reflection](agile-logbook-reflection.md)
+
