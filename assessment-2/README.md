@@ -7,9 +7,13 @@ This section showcases my Agile project
 management experience and learning.
 
 ## Portfolio Contents
+   
+## 1. Agile Team Charter
 
-1. Agile Team Charter
-2. User Stories and Tasks
-3. Product Backlog
-4. Sprint Backlog
-5. Agile Logbook
+- [View Team Charter Evidence](team-charter.md)
+- [View Team Charter Reflection](team-charter-reflection.md)
+
+3. User Stories and Tasks
+4. Product Backlog
+5. Sprint Backlog
+6. Agile Logbook
