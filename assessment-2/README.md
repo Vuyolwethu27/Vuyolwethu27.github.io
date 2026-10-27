@@ -13,7 +13,9 @@ management experience and learning.
 - [View Team Charter Evidence](team-charter.md)
 - [View Team Charter Reflection](team-charter-reflection.md)
 
-3. User Stories and Tasks
-4. Product Backlog
-5. Sprint Backlog
-6. Agile Logbook
+## 2. User Stories and Tasks
+- [View User Stories and Tasks](user-stories.md)
+- [View My Reflection](user-stories-reflection.md)
+5. Product Backlog
+6. Sprint Backlog
+7. Agile Logbook
