@@ -21,14 +21,21 @@ I used GitHub to edit my CV in a Markdown file. I applied headings, bold text, b
 I created a CV using Markdown and improved my understanding of how developers use Markdown for technical documentation. I also gained practical experience editing and maintaining files on GitHub. This activity helped me develop digital communication, documentation, and presentation skills that will be useful in my future software development career.
   
 
-## Mock interview STAR reflection
-**Situation:** I was expected to take part in a mock interview as part of work-readiness training to practise responding to employment interview questions.
 
-**Task:** My goal was to communicate my skills and experiences confidently, answer questions clearly and present myself professionally.
+## Reflection on My Mock Interview Experience (STAR Method)
 
-**Action:** **[Describe the actual preparation, interview questions, how you responded and any feedback received. Do not invent details.]**
+### Situation
+As part of my Work Readiness Training at Cape Peninsula University of Technology (CPUT), I participated in a mock interview to prepare myself for future employment opportunities in the Information Technology industry. The interview provided an opportunity to practise answering questions in a professional setting and evaluate my communication and presentation skills.
 
-**Result:** **[Describe what you learned from reviewing your real video, including one strength and one improvement area. Explain what you would do differently next time.]**
+### Task
+My task was to prepare for the mock interview, respond to interview questions clearly and professionally, and demonstrate confidence when discussing my educational background, technical skills, strengths, and career goals. I also needed to practise presenting myself as a suitable candidate for an entry-level position in software development.
+
+### Action
+I prepared by reviewing common interview questions and thinking about how to explain my academic experience and technical skills. During the interview, I focused on giving relevant answers, speaking clearly, and maintaining professional behaviour. I also used examples from my academic projects to explain my teamwork, problem-solving, and software development experience.
+
+### Result
+The mock interview gave me valuable experience in presenting myself in a professional environment. It helped me recognise the importance of preparation, clear communication, and confidence when answering interview questions. I also identified areas where I can improve, such as structuring my answers more effectively and providing stronger examples of my skills. This experience has helped me understand what employers may expect during interviews and how I can prepare for future job opportunities.
+  
 
 ## GitHub Pages STAR reflection
 **Situation:** The assessment required a publicly accessible portfolio that employers and lecturers could view online.
