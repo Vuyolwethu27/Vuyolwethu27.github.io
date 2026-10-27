@@ -4,16 +4,22 @@ title: STAR Reflections
 ---
 # STAR Reflections
 
-> **Draft reflections:** Edit the actions and results below so they accurately describe what you personally did. Do not claim an interview or deployment was completed before it happened.
 
-## Markdown CV STAR reflection
-**Situation:** As part of my work-readiness assessment, I needed to present my curriculum vitae in a professional online portfolio using Markdown.
 
-**Task:** My task was to organise my education, skills, achievements and project experience into a readable Markdown CV that would be suitable for prospective employers.
+## Reflection on Coding in Markdown (STAR Method)
 
-**Action:** I structured my CV with Markdown headings, bold text, lists and links. I selected information relevant to an Applications Development student, including my QR Code Attendance System project and academic recognition. I reviewed the formatting in GitHub's preview. **[Confirm what you actually completed and mention any challenges.]**
+### Situation
+As part of my Work Readiness Training at Cape Peninsula University of Technology (CPUT), I was required to create a professional digital portfolio using GitHub and Markdown. This included developing my Curriculum Vitae (CV) using Markdown.
 
-**Result:** The CV provides a clear, maintainable record of my skills and achievements. I learned how Markdown can support professional technical communication. **[Add a real example of an error you fixed or improvement you made.]**
+### Task
+My task was to create a well-structured and professional CV using Markdown formatting. I needed to organise my personal information, education, technical skills, academic projects, and career objectives in a format that would be easy to read and suitable for an online portfolio.
+
+### Action
+I used GitHub to edit my CV in a Markdown file. I applied headings, bold text, bullet points, and spacing to organise the information clearly. I previewed the document to check its appearance and made adjustments before committing my changes to the repository.
+
+### Result
+I created a CV using Markdown and improved my understanding of how developers use Markdown for technical documentation. I also gained practical experience editing and maintaining files on GitHub. This activity helped me develop digital communication, documentation, and presentation skills that will be useful in my future software development career.
+  
 
 ## Mock interview STAR reflection
 **Situation:** I was expected to take part in a mock interview as part of work-readiness training to practise responding to employment interview questions.
