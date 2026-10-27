@@ -1,7 +1,4 @@
----
-layout: default
-title: STAR Reflections
----
+
 # STAR Reflections
 
 
@@ -37,14 +34,21 @@ I prepared by reviewing common interview questions and thinking about how to exp
 The mock interview gave me valuable experience in presenting myself in a professional environment. It helped me recognise the importance of preparation, clear communication, and confidence when answering interview questions. I also identified areas where I can improve, such as structuring my answers more effectively and providing stronger examples of my skills. This experience has helped me understand what employers may expect during interviews and how I can prepare for future job opportunities.
   
 
-## GitHub Pages STAR reflection
-**Situation:** The assessment required a publicly accessible portfolio that employers and lecturers could view online.
 
-**Task:** I needed to organise my Markdown files in a GitHub repository, publish them with GitHub Pages and check that all links and evidence worked.
+## Reflection on Using GitHub Pages (STAR Method)
 
-**Action:** **[After completing deployment, describe your actual repository setup, Pages settings, any issues and how you solved them.]**
+### Situation
+As part of my Work Readiness Training at Cape Peninsula University of Technology (CPUT), I was required to create and publish a digital portfolio showcasing my professional development, technical skills, and readiness for the workplace. After preparing my CV, mock interview evidence, and reflections using Markdown, I needed to make the portfolio accessible online.
 
-**Result:** **[Insert your real live URL and explain what worked, what you learned about publishing and one improvement you would make.]**
+### Task
+My task was to publish my GitHub repository as a live website using GitHub Pages. I needed to ensure that the website was publicly accessible, professionally organised, and contained working links to my CV, mock interview video, and reflections.
+
+### Action
+I uploaded my portfolio files to a GitHub repository and organised them using Markdown. I opened the repository settings, selected GitHub Pages, and configured the deployment source using the main branch and root folder. After saving the settings, I waited for GitHub Pages to publish my website. I then opened the website and tested the links to confirm that visitors could access my portfolio content.
+
+### Result
+I successfully published my digital portfolio using GitHub Pages. This helped me understand how to host a website directly from a GitHub repository and how changes to repository files can be reflected on a live website. I also improved my confidence in using GitHub, Markdown, and web publishing tools. This experience will be valuable when showcasing my future software development projects and professional achievements to potential employers.
+  
 
 ## Overall learning reflection
 Collecting and selecting my work-readiness artefacts helped me identify evidence of both technical and interpersonal development. My CV describes what I can contribute, the mock interview tests how I communicate that contribution, and GitHub Pages makes my portfolio accessible. Going forward, I want to strengthen my interview confidence, technical documentation and ability to present my project work clearly.
