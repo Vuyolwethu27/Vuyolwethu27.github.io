@@ -28,7 +28,7 @@ and reflect on the development process.
 |---|---|---|
 | 04/05/2026 | Team Charter | Completed |
 | 15/07/2026 | Requirements Discussion | Completed |
-| 23/07/2026 | User Stories | Compleeted |
+| 23/07/2026 | User Stories | Completed |
 | 24/07/2026 | Product Backlog | Completed |
 | 06/08/2026 | Sprint Planning | Completed |
 | 16/09/2026 | Progress Review | Completed |
