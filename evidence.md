@@ -1,13 +1,11 @@
----
-layout: default
-title: Portfolio Evidence
----
+
 # Portfolio Evidence
 
 ## GitHub student account
-**Evidence required:** screenshot of your GitHub profile and, where applicable, GitHub Education student verification/benefits status. Do not expose personal student numbers, private email details or tokens in screenshots.
+**Evidence required:** 
 
-![GitHub account evidence — replace with screenshot](assets/github-account.png)
+<img width="1612" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/4d60eba9-8ec7-41db-ab72-10a29fd699e4" />
+
 
 **Why selected:** Demonstrates that I created and can use a GitHub account to maintain a professional digital presence.
 
@@ -34,7 +32,7 @@ As part of my CPUT Work Readiness Training, I completed a mock interview to prac
 ## GitHub Pages publication
 **Live site:** `https://YOUR-USERNAME.github.io/` (replace after publishing)
 
-![GitHub Pages settings or live site — replace with screenshot](assets/github-pages.png)
+<img width="1615" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/f317f5ec-575c-45ff-8ebb-7dc94f1cef50" />
 
 **Why selected:** Demonstrates my ability to publish a Markdown-based website and verify that it can be accessed online.
 
